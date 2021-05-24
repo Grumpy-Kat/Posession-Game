@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MonoBehaviors\BuildingCollision.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Managers\CityManager.cs" Line="153" Column="17" />
+      <File FileName="Assets\Scripts\Managers\PeopleManager.cs" Line="16" Column="13" />
+      <File FileName="Assets\Scripts\Managers\PlayerManager.cs" Line="280" Column="26" />
+      <File FileName="Assets\Scripts\Data\Person.cs" Line="94" Column="4" />
+      <File FileName="Assets\Scripts\MonoBehaviors\BuildingCollision.cs" Line="46" Column="185" />
+      <File FileName="Assets\Scripts\Managers\ItemManager.cs" Line="163" Column="22" />
+      <File FileName="Assets\Scripts\Managers\BuildingInteriorManager.cs" Line="148" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Luda\unity\Possession\Assets\Scripts\Managers\BuildingResidentialInteriorManager.cs" line="433" column="1" />
+      <Breakpoint file="C:\Users\Luda\unity\Possession\Assets\Scripts\Managers\BuildingResidentialInteriorManager.cs" line="484" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

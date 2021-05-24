@@ -1,0 +1,8 @@
+Stranger;Hello.
+Player;Respond Politely:Hi, nice to meet you.:line,4;Respond Rudely:What do you want?:line,7
+
+Stranger;Nice to meet you too. Lovely weather it is today! Well, I've got to run, but it was nice talking to you.
+Player;Exit: :exit,
+
+Stranger;What's your problem? You talked to me first!
+Player;Exit: :exit,
